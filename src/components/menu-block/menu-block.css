@@ -1,0 +1,31 @@
+
+h2 {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+
+.block-item img {
+    width: 170px;
+    height: 170px;
+    border-radius: 10px 10px 0 0;
+}
+
+.block-item:hover {
+    transform: scale(1.05);
+}
+
+
+.block-item {
+    text-align: center;
+    width: 280px;
+    color: #FF8C00;
+    padding: 15px 0;
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+h5 {
+    padding-top: 15px;
+}

@@ -1,0 +1,12 @@
+.todo-list-item-label {
+    background: grey;
+}
+
+.todo-list-item-label.change {
+    background: rgba(152, 241, 20, 0.652);
+}
+
+.added-block {
+    display: inline;
+}
+
