@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/zoo-magazine-pages/static/css/main.a75edc06.css",
+    "main.js": "/zoo-magazine-pages/static/js/main.b1c04444.js",
+    "static/media/pic12.jpg": "/zoo-magazine-pages/static/media/pic12.7bea507254a4bf40bf64.jpg",
+    "static/media/pic1.jpg": "/zoo-magazine-pages/static/media/pic1.2162042b4bfa11ebe19a.jpg",
+    "static/media/pic9.jpg": "/zoo-magazine-pages/static/media/pic9.fb82b0c3a4990e77e5a5.jpg",
+    "static/media/pic5.jpg": "/zoo-magazine-pages/static/media/pic5.9a7fc868782d45c62ca5.jpg",
+    "static/media/pic3.jpg": "/zoo-magazine-pages/static/media/pic3.9df9c63d48057bd511b1.jpg",
+    "static/media/rodents.jpg": "/zoo-magazine-pages/static/media/rodents.13afa05a20333949f42b.jpg",
+    "static/media/grooming.jpg": "/zoo-magazine-pages/static/media/grooming.e0d24e09721876a877df.jpg",
+    "static/media/birds.jpg": "/zoo-magazine-pages/static/media/birds.b551da2ba430ec61375d.jpg",
+    "static/media/aqua.jpg": "/zoo-magazine-pages/static/media/aqua.1791d2cee0b71d80cd17.jpg",
+    "static/media/pic8.jpg": "/zoo-magazine-pages/static/media/pic8.0f19214a74556a373cfb.jpg",
+    "static/media/exotic.jpg": "/zoo-magazine-pages/static/media/exotic.3faed29c47b2bf478e19.jpg",
+    "static/media/cats.jpg": "/zoo-magazine-pages/static/media/cats.c2bc440b15dfa2144ba9.jpg",
+    "static/media/pic4.jpg": "/zoo-magazine-pages/static/media/pic4.1975ec23da80da602cef.jpg",
+    "static/media/veterinary.jpg": "/zoo-magazine-pages/static/media/veterinary.c516bc5facd3783f8f90.jpg",
+    "static/media/pic6.jpg": "/zoo-magazine-pages/static/media/pic6.ba73c2b755e883f3dc6e.jpg",
+    "static/media/pic7.jpg": "/zoo-magazine-pages/static/media/pic7.dbcd5ff1f25d1277b9f3.jpg",
+    "static/media/pic10.jpg": "/zoo-magazine-pages/static/media/pic10.8a9c46ac879dc7ce6591.jpg",
+    "static/media/pic2.jpg": "/zoo-magazine-pages/static/media/pic2.0068311c93c478588b2c.jpg",
+    "static/media/pic11.jpg": "/zoo-magazine-pages/static/media/pic11.62d46bb3f2ce75fe4d5e.jpg",
+    "static/media/dogs.jpg": "/zoo-magazine-pages/static/media/dogs.df31617d8a12421842e3.jpg",
+    "index.html": "/zoo-magazine-pages/index.html",
+    "main.a75edc06.css.map": "/zoo-magazine-pages/static/css/main.a75edc06.css.map",
+    "main.b1c04444.js.map": "/zoo-magazine-pages/static/js/main.b1c04444.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a75edc06.css",
+    "static/js/main.b1c04444.js"
+  ]
+}
